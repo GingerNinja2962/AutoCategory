@@ -121,7 +121,7 @@ AutoCategory.defaultAcctSettings = {
 		},
 		[13] = 
 		{
-			["rule"] = "type(\"container\")",
+			["rule"] = "type(\"container\", \"currency_container\")",
 			["tag"] = L(SI_AC_DEFAULT_TAG_GENERAL_ITEMS),
 			["name"] = L(SI_AC_DEFAULT_CATEGORY_CONTAINER),
 			["damaged"] = false,
